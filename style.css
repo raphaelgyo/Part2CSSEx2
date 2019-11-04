@@ -1,22 +1,14 @@
-h1
-{
+h1 {
   text-align: center;
-  color: black;
   font-size: 100%;
   font-style: bold;
 }
-
-.red
-{
+.red {
   color: red;
 }
-
-.green
-{
+.green {
   color: green;
 }
-
-.italic
-{
+#italic {
   font-style: italic
 }
